@@ -1,0 +1,16 @@
+AT&T US 170.8 0.1
+Verizon Communications US 130.9 0.8
+China Mobile HK 111.8 9.7
+Softbank JP 86.2 7.9
+Nippon Telegraph & Tel JP 107.5 2.9
+Deutsche Telekom GER 89.3 1.0
+Telefónica SP 57.7 0.9
+China Telecom CN 57.1 0.3
+KDDI JP 45.8 1.8
+Orange FR 48.8 8.9
+América Móvil MX 53.1 6.8
+China Unicom HK 44.1 1.0
+BT Group UK 31.5 7.7
+BCE CA 18.1 1.9
+Хипстерский стартап CO1 44.0 99.0
+Школьный стартап CO1 77.9 99.9

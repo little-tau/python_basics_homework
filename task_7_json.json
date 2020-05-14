@@ -1,0 +1,23 @@
+[
+    {
+        "AT&T": 170.7,
+        "Verizon Communications": 130.1,
+        "China Mobile": 102.1,
+        "Softbank": 78.3,
+        "Nippon Telegraph & Tel": 104.6,
+        "Deutsche Telekom": 88.3,
+        "Telefónica": 56.8,
+        "China Telecom": 56.8,
+        "KDDI": 44.0,
+        "Orange": 39.9,
+        "América Móvil": 46.3,
+        "China Unicom": 43.1,
+        "BT Group": 23.8,
+        "BCE": 16.2,
+        "Хипстерский стартап": -55.0,
+        "Школьный стартап": -22.0
+    },
+    {
+        "average_profit": 71.5
+    }
+]

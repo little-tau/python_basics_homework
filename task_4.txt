@@ -1,0 +1,84 @@
+{
+    "inv_seq": 6,
+    "db": [
+        {
+            "inventory_num": "PNR1",
+            "equipment": {
+                "manufacturer": "Xerox",
+                "model": "Phaser 3020",
+                "price": 200,
+                "serial_num": "SN764376",
+                "name": "printer"
+            },
+            "price": 200,
+            "department": "warehouse"
+        },
+        {
+            "inventory_num": "PNR2",
+            "equipment": {
+                "manufacturer": "Xerox",
+                "model": "Phaser 6020",
+                "price": 300,
+                "serial_num": "SN764376",
+                "name": "printer"
+            },
+            "price": 300,
+            "department": "warehouse"
+        },
+        {
+            "inventory_num": "SCN3",
+            "equipment": {
+                "manufacturer": "HP",
+                "model": "ScanJet Pro N4000",
+                "price": 500,
+                "serial_num": "SN654GFD",
+                "name": "scanner"
+            },
+            "price": 500,
+            "department": "warehouse"
+        },
+        {
+            "inventory_num": "CPR4",
+            "equipment": {
+                "manufacturer": "HP",
+                "model": "ENVY Photo 7855",
+                "price": 900,
+                "serial_num": "SNASJ76D",
+                "name": "copier"
+            },
+            "price": 900,
+            "department": "warehouse"
+        },
+        {
+            "inventory_num": "PNR5",
+            "equipment": {
+                "manufacturer": "Canon",
+                "model": "Maxify MB5420",
+                "price": 250.0,
+                "serial_num": "SNGHHF6675",
+                "name": "printer"
+            },
+            "price": 250.0,
+            "department": "warehouse"
+        },
+        {
+            "inventory_num": "SCN6",
+            "equipment": {
+                "manufacturer": "Canon",
+                "model": "CanoScan LIDE 120",
+                "price": 532.0,
+                "serial_num": "SNBFF66689",
+                "name": "scanner"
+            },
+            "price": 532.0,
+            "department": "warehouse"
+        }
+    ],
+    "departments": [
+        "it",
+        "secretary",
+        "lawyers",
+        "sales",
+        "warehouse"
+    ]
+}
